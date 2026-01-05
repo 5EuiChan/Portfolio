@@ -2,6 +2,7 @@
 /* use color
 #0B0B0B(background)
 #DADADA(wite)
+#F0EEE9(cloud dancer)
 #F28C28(point)
 */
 
@@ -15,7 +16,7 @@
 
 body {
     background: #0B0B0B;
-    color: #F5F5F5;
+    color: #F0EEE9;
     font-family: Arial, sans-serif;
     overflow: hidden;
 }
@@ -32,7 +33,7 @@ nav {
 nav button {
     background: none;
     border: none;
-    color: #DADADA;
+    color: #F0EEE9;
     margin: 0 10px;
     cursor: pointer;
 }
@@ -63,6 +64,7 @@ nav button:hover {
     font-size: 48px;
     font-weight: 900;
     letter-spacing: 3px;
+    color: #F28C28;
 }
 
 /* SKILL */
@@ -80,7 +82,7 @@ nav button:hover {
 .bar {
     width: 320px;
     height: 12px;
-    background: #F5F5F5;
+    background: #F0EEE9;
 }
 
 .fill {
