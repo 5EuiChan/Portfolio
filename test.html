@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="static/css/test.css">
+</head>
+<body>
+
+<nav>
+    <button data-page="page1">Intro</button>
+    <button data-page="page2">About</button>
+    <button data-page="page3">Skills</button>
+    <button data-page="page4">Projects</button>
+    <button data-page="page5">Personality</button>
+    <button data-page="page6">Contact</button>
+</nav>
+
+<section id="page1" class="page active">
+    <div class="abc-icon">OCH</div>
+    <h1>WEB PORTFOLIO</h1>
+</section>
+
+<section id="page2" class="page">
+    <h2>ABOUT ME</h2>
+    <p>웹 UI / UX 중심 프론트엔드 제작자</p>
+</section>
+
+<section id="page3" class="page">
+    <h2>SKILLS</h2>
+
+    <div class="skill">
+        <span class="icon">JS</span>
+        <div class="bar"><div class="fill js" data-skill="80"></div></div>
+    </div>
+
+    <div class="skill">
+        <span class="icon">PY</span>
+        <div class="bar"><div class="fill python" data-skill="70"></div></div>
+    </div>
+
+    <div class="skill">
+        <span class="icon">FIG</span>
+        <div class="bar"><div class="fill figma" data-skill="85"></div></div>
+    </div>
+
+    <div class="skill">
+        <span class="icon">JS</span>
+        <div class="bar"><div class="fill javascript" data-skill="75"></div></div>
+    </div>
+</section>
+
+<section id="page4" class="page">
+    <h2>PROJECT</h2>
+    <div class="project-image"></div>
+</section>
+
+<section id="page5" class="page">
+    <h2>PERSONALITY</h2>
+    <p>유연한 사고, 팀플과 소통에 강점이 있습니다.</p>
+</section>
+
+<section id="page6" class="page">
+    <h2>CONTACT</h2>
+    <p>Email : example@email.com</p>
+</section>
+
+<script src="static/css/test.js"></script>
+</body>
+</html>
