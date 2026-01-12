@@ -168,7 +168,6 @@ Frame여러개 한 번에 색상 변겅
 
 바/게이지 표현
     제약조건에서 확대축소 옵션 하면 반응형으로 가능
-    이것 때문에 좀 화났음
 
 
 
@@ -215,7 +214,6 @@ git remote add origin https://github.com/아이디/B.git
 git add .
 git commit -m "Initial commit"
 git push -u origin main
-
 
 
 
