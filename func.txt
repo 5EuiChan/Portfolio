@@ -218,9 +218,9 @@ git push -u origin main
 
 
 README에 관하여
-    ❌ 로컬 폴더가 이미 있을 때
+    로컬 폴더가 이미 있을 때 O
     
-    ✅ GitHub에서 먼저 시작할 때
+    GitHub에서 먼저 시작할 때 X
         -컬에 아무 파일도 없음
         -GitHub에서 프로젝트부터 만들고 싶을 때
         -README 체크해도 문제 없음
