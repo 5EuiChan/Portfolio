@@ -1,3 +1,8 @@
+
+제출해야할 파일 양식 - Web(스크롤), Figma(App), 인쇄용(PDF)
+만들어야 할 파일 - Figma(Web,App)
+
+
 Portfolio
     JS
     HTML
@@ -13,14 +18,15 @@ Portfolio
 - done
     포트폴리오 컨셉 색상 설정
 
+
+
 2025-01-09(figma)
-- do
-    figma 포폴 제작 중
     목표 설정
         1. 대략적인 포폴 완성(about, contact.....)
         2. 완성된 포폴을 html로 제작
         3. 프로젝트 완성해서 집어넣기
-
+- do
+    figma 포폴 제작 중
 - done
     Figma
     1. ui 구성 구성 60% @@@@@
@@ -31,14 +37,18 @@ Portfolio
 
 
 2025-01-16(figma)
-- do
-    figma 포폴 제작 중
-    목표 설정
+
+목표 설정
         1. 대략적인 포폴 완성(about, contact.....)@@@@@
         2. 포트폴리오 완성(Project 제외) /////
         3. 완성된 포폴을 html로 제작
         4. 프로젝트 완성해서 집어넣기
+        5. 우선 (Figma)
 
+- do
+    1. figma 포폴 제작 중
+    2. 반응형에 대한 혼선 @@@@@
+    
 - done
     Figma
     1. ui 구성 구성 60% @@@@@
