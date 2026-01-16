@@ -13,7 +13,7 @@ buttons.forEach(btn => {
         document.getElementById(target).classList.add("active");
 
         // SKILL 페이지 진입 시 바 애니메이션 실행
-        if (target === "page3") {
+        if (target === "page4") {
             animateSkills();
         }
     });
