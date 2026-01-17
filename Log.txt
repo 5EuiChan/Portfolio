@@ -12,7 +12,7 @@
 
 
 2025-01-09(figma)
-목표 설정
+- objective
     1. 대략적인 포폴 완성(about, contact.....)
     2. 완성된 포폴을 html로 제작
     3. 프로젝트 완성해서 집어넣기
@@ -29,12 +29,12 @@
 
 2025-01-16(figma)
 
-목표 설정
+- objective
     1. 대략적인 포폴 완성(about, contact.....)@@@@@
     2. 포트폴리오 완성(Project 제외) /////
     3. 완성된 포폴을 html로 제작
     4. 프로젝트 완성해서 집어넣기
-    5. 우선 (Figma)
+    5. 우선 figma(App)
 
 - do
     1. figma 포폴 제작 중
@@ -49,6 +49,45 @@
     2. 디자인, 색상, 컨셉 정의 @@@@@
     3. figma 애니메니션 표현 @@@@@
     4. gauag 표현 @@@@@
+
+
+
+2025-01-17(figma)
+
+- objective
+    1. 대략적인 포폴 완성(about, contact.....)@@@@@
+    2. 포트폴리오 완성(Project 제외) /////
+    3. 완성된 포폴을 html로 제작
+    4. 프로젝트 완성해서 집어넣기
+    5. 우선 figma(App)
+
+- do
+    1. figma 포폴 제작 중
+    2. 반응형에 대한 혼선 @@@@@
+    3. line grapic test
+        오토레이아웃을 사용해서 사각형 테두리를 한 방향으로 채우는 상황 /////(테스트 필요)
+    
+- done
+    JS
+    HTML
+    CSS
+    Figma
+    1. ui 구성 구성 60% @@@@@
+    2. 디자인, 색상, 컨셉 정의 @@@@@
+    3. figma 애니메니션 표현 @@@@@
+    4. gauag 표현 @@@@@
+    5. intro part line grapic test
+
+
+
+
+
+
+
+
+
+
+
 
 
 

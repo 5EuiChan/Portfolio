@@ -130,7 +130,7 @@ html에서 데이터를 전송하는 여러가지 방법
 Horizontal - 가로
 Vrtical - 세로
 Fill - 채우다
-Variable - 변수
+Veriable - 변수
 Authentication - 인증
 
 
