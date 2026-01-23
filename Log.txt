@@ -108,6 +108,29 @@
 
 
 
+2025-01-23(figma)
+
+- objective
+    1. 대략적인 포폴 완성(about, contact.....)@@@@@
+    2. 포트폴리오 완성(Project 제외) /////
+    3. 완성된 포폴을 html로 제작
+    4. 프로젝트 완성해서 집어넣기
+    5. 우선 figma(App)
+
+- do
+    1. 애니메니션 그래픽 깨달음
+    2. intro 부분 수정중
+    
+- done
+    JS
+    HTML
+    CSS
+    Figma
+    1. ui 구성 구성 60% @@@@@
+    2. 디자인, 색상, 컨셉 정의 @@@@@
+    3. figma 애니메니션 표현 @@@@@
+    4. gauag 표현 @@@@@
+    5. intro part line grapic test
 
 
 
