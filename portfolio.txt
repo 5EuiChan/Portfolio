@@ -22,4 +22,5 @@
 
 5. contact
     email - echo52799@gmail.com
-    phone - 
+    phone - 010-0000-0000
+    GitHub - 
